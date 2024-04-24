@@ -1,0 +1,92 @@
+{
+  "workspaces": {
+    "default": {
+      "main": {
+        "id": "be000b1351851740",
+        "type": "split",
+        "children": [
+          {
+            "id": "74860a1507d1f5b0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2b18abba1c632444",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Pensum 2024 - Gevallen Zielen.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "096afdb4136c8b71",
+        "type": "split",
+        "children": [
+          {
+            "id": "c5cba72821a53b19",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "913e567f49cb1d37",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "737b37531190f311",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": true,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "b8a953f435c219a8",
+        "type": "split",
+        "children": [],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "switcher:Open quick switcher": false,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": false,
+          "templater-obsidian:Templater": true,
+          "workspaces:Manage workspace layouts": true
+        }
+      },
+      "active": "913e567f49cb1d37",
+      "mtime": "2024-04-24T22:29:47+02:00"
+    }
+  },
+  "active": "default"
+}
