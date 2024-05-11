@@ -1,3 +1,4 @@
 {
-  "accentColor": "#5c7df5"
+  "accentColor": "#5c7df5",
+  "showViewHeader": false
 }

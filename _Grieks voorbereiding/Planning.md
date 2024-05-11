@@ -1,0 +1,1 @@
+De examen deadline is op de dinsdag na de vakantie: [[2024-05-07|7 mei]]. Tijd voor het gebruik van JonathanHub. Laten we er ook een boel Griekse cultuur in zetten vanuit het boek. Laten we dat niet direct in deze vault doen, maar gewoon onder `Areas/Taal/Grieks MOC` ofzo in mijn main vault. Dit heeft namelijk niks te maken met wat ik zojuist heb gepubliceerd.
